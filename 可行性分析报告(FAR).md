@@ -15,8 +15,6 @@
 5：官腾飞 guan041109  
 6-10：姚思彤 songyin33  
 
-**Github项目地址：**<https://github.com/Quiet-chen/SoftwareEngineering>
-
 ---
 
 # 目录
